@@ -175,6 +175,7 @@ Map {
   line-color:@waterwaysline;
 }
 
+
 #caplaces {
     [type = 'island'] {
     text-name:[name] ;
@@ -184,6 +185,7 @@ Map {
     text-halo-fill:@white ;
     }
 }
+
 
 #caplaces[zoom<=11] {
   [type = 'city'] {
@@ -206,27 +208,9 @@ Map {
 }
 
 #caplaces[zoom>=13] {
-  [type = 'town'] {
-    text-name:[name] ;
-    text-fill:@placetext;
-    text-face-name:@font ;
-    text-halo-radius:1 ;
-    text-halo-fill:@white ;
-    }
-  [type = 'village'] {
-    text-name:[name] ;
-    text-fill:@placetext;
-    text-face-name:@font ;
-    text-halo-radius:1 ;
-    text-halo-fill:@white ;
-    }
-  [type = 'hamlet'] {
-    text-name:[name] ;
-    text-fill:@placetext;
-    text-face-name:@font ;
-    text-halo-radius:1 ;
-    text-halo-fill:@white ;
-    }
+  [type = 'town'],
+  [type = 'village'],
+  [type = 'hamlet'],
   [type = 'locality'] {
     text-name:[name] ;
     text-fill:@placetext;
