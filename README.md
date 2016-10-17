@@ -1,2 +1,7 @@
-# outreachy
-Basemap demo for Cadasta Outreachy internship
+# Improve Overall Cadasta Cartography
+
+# Approach
+
+# Map Images
+
+# Data Sources
