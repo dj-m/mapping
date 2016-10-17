@@ -20,4 +20,3 @@ I emphasized the visibility of major roads, making their proximity to the units 
 
 - [City of San Jose Open Data Portal](http://data.sanjoseca.gov/home)
 - [City of San Jose Maps](http://www.sanjoseca.gov/index.aspx?NID=3308)
-- []()
