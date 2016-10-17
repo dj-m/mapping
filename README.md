@@ -10,4 +10,10 @@ Using these tools, I sought to highlight [isolation issues](http://nyti.ms/1JsFo
 
 # Map Images
 
+![screenshot](images/sanjose_zoom10.png)
+![screenshot](images/sanjose_zoom12.png)
+![screenshot](images/sanjose_zoom13.png)
+
+I emphasized the visibility of major roads, making their proximity to the units conspicuous. I deemphasized freeways, highways and roads that are more often frequented by privately-owned passenger vehicles. Bus routes, train stops and other public transportation locations, which spur and/or are cultural, economic and social hubs, exist on major roads and not Interstate, State & US highways, in San José. Main roads are determined by the San Jose/zoning & planning governing bodies. Also emphasized are the parks, bodies of water, riverbanks and waterways near the homes, indicating access to natural recreational hubs/spaces.
+
 # Data Sources
